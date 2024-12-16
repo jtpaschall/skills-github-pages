@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-This is my first blog page.
+This is my first blog homepage.
