@@ -1,4 +1,4 @@
 ---
-title: Welcome to my new blog
+title: Happy Birthday Nick!
 ---
 
