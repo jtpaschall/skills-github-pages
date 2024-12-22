@@ -1,4 +1,4 @@
 ---
 title: Happy Birthday Nick!
 ---
-![Happy Birthday](/docs/assets/happybirthday.jpeg)
+![Happy Birthday](/docs/assets/happy_birthday.jpg)
